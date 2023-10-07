@@ -1,6 +1,6 @@
 # obsidian-constitution
 
-A file for use with the application [Obsidian.md](https://obsidian.md) which can display the different elements of the Constitution of the United States of America in an interactive and visual manner. These files may also be integrated into a personal vault to add a quick and easy way to reference the Constitution within Obsidian.
+A collection of files for use with the application [Obsidian.md](https://obsidian.md) which can display the different elements of the Constitution of the United States of America in an interactive and visual manner. These files may also be integrated into a personal vault to add a quick and easy way to reference the Constitution within Obsidian.
 
 - Each element's filename adheres to [Indigo Book 2.0](https://law.resource.org/pub/us/code/blue/IndigoBook.html) citation format (e.g. `U.S. Const. art. I, § 8, cl. 18`) but aliases for each include:
 	- a quick-reference name (e.g. `A1S8C18`).
